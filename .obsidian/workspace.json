@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7966a42e92c3da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALGO/Sommaire.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALGO/Sommaire.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALGO/Sommaire.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f1464339586e598e",
+  "active": "d7966a42e92c3da5",
   "lastOpenFiles": [
-    "Welcome.md",
     "ALGO/Sommaire.md",
+    "README.md",
+    "Welcome.md",
     "ALGO",
     "CSS",
     "HTML"
